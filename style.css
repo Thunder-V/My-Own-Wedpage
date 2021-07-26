@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+    background: linear-gradient(#27479F 20%, #8a0500 80%);
+    background-repeat: no-repeat;
+}
+
+img {
+    border-radius: 110%;
+    width: 200px;
+}
+
+h1 {
+    text-shadow: 2px 2px #3E2723;
+    font-size: 30px;
+}
+
+p {
+    font-size: 19px;
+    color: #020636;
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+
+.links {
+    float: left;
+    color: crimson;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-size: 25px;
+    font-family: fantasy;
+}
+
+.links:hover {
+    background-color: cornsilk;
+}
